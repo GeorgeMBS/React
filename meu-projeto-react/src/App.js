@@ -1,14 +1,23 @@
 import './App.css';
 import HelloWorld from './components/HelloWorld';
-import EuMesmo from './components/EuMesmo';
+import SayMyName from './components/SayMyName';
+import Pessoa from './components/Pessoa';
 
 function App() {
+
+  const name = 'Gumercindo'
+
   return (
     <div className="App">
-      <h1>Olá React!</h1>
-      <h2>Meu primeiro APP</h2>
-      <HelloWorld />
-      <EuMesmo/>
+      <SayMyName nome="George" />
+      <SayMyName nome="Michael" />
+      <SayMyName nome={name} />
+      <Pessoa
+      nome="George"
+      idade="33"
+      profissao="Programador"
+      foto="https://via.placeholder.com/150"
+      />
     </div>
   )
 }
