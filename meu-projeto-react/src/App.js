@@ -1,7 +1,7 @@
 import './App.css';
-import HelloWorld from './components/HelloWorld';
 import SayMyName from './components/SayMyName';
 import Pessoa from './components/Pessoa';
+import EuMesmo from './components/EuMesmo';
 
 function App() {
 
@@ -18,6 +18,8 @@ function App() {
       profissao="Programador"
       foto="https://via.placeholder.com/150"
       />
+      <EuMesmo />
+      
     </div>
   )
 }
