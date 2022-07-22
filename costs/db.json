@@ -1,6 +1,27 @@
 {
   "projects": [
-    
+    {
+      "name": "teste1",
+      "Budget": "4998",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "teste2",
+      "Budget": "10000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
   ],
   "categories": [
     {
