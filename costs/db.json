@@ -1,22 +1,22 @@
 {
   "projects": [
     {
-      "name": "teste1",
-      "Budget": "4998",
+      "name": "George Michael Barbosa Silveira",
+      "Budget": "500000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "1",
+        "name": "infra"
       },
       "cost": 0,
       "services": [],
       "id": 1
     },
     {
-      "name": "teste2",
-      "Budget": "10000",
+      "name": "userAdmin",
+      "Budget": "51651",
       "category": {
-        "id": "1",
-        "name": "infra"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
