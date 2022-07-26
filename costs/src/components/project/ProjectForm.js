@@ -57,7 +57,7 @@ function ProjectForm({ handleSubmit, btnText, projectData}) {
             <Input 
                 type="number"
                 text="Orçamento do projeto"
-                name="Budget"
+                name="budget"
                 placeholder="Insira o orçamento total"
                 handleOnChange={handleChange}
                 value={project.budget}

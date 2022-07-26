@@ -1,28 +1,5 @@
 {
-  "projects": [
-    {
-      "name": "George Michael Barbosa Silveira",
-      "Budget": "500000",
-      "category": {
-        "id": "1",
-        "name": "infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "userAdmin",
-      "Budget": "51651",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": 1,
