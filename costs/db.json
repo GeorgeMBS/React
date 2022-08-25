@@ -4,8 +4,8 @@
       "name": "Teste 1",
       "budget": "1250",
       "category": {
-        "id": "1",
-        "name": "infra"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": [],
