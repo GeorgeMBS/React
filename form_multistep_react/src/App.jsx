@@ -12,7 +12,7 @@ function App() {
   const formComponents = [<UserForm />, <ReviewForm />, <Thanks />];
 
   return (
-    <div className="App">
+    <div className='App'>
       <div className='header'>
         <h2>Deixe sua avaliação</h2>
         <p>
